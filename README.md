@@ -1,2 +1,1 @@
-# MD.-RAFIUJJAMAN-RASEL
-I wanna learn
+#5th semester Data Structure all code in C#.
